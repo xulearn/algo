@@ -32,7 +32,7 @@ vector<string> combination(char* str){
     vector<string> res;
     int len = strlen(str);
     if(len){
-        for(int i=1;i<=len;i++){
+        for(int i=1;i<=len;i++){//循环以确定每种组合的长度
             vector<char> cRes;
             combination(str,i,cRes,res);
         }
