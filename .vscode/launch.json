@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P249_InversePairs",
+            "request": "launch",
+            "mainClass": "P249_InversePairs"
+        }
+    ]
+}

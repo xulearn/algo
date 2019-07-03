@@ -1,0 +1,7 @@
+{
+    "java.dependency.packagePresentation": "flat",
+    "java.dependency.syncWithFolderExplorer": true,
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
